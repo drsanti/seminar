@@ -2,7 +2,7 @@
 
 Click [here](https://github.com/drsanti/shared/tree/master/2020/seminars/README.md) for more details
 
-
+---
 
 # Software Installation (Step-by-step)
 
