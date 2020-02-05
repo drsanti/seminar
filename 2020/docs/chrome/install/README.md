@@ -1,6 +1,6 @@
 # Install Google Chrome
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)
 
 1. Go to the [download page](https://www.google.com/chrome/), and click the `Download Chrome` button.
 
@@ -29,4 +29,4 @@
 
 ---
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)

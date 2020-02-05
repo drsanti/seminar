@@ -1,6 +1,6 @@
 # Install Python 3.8
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)
 
 1. Go to the [download page](https://www.python.org/downloads/) and click the `Download Python 3.8.1` button.
 
@@ -40,4 +40,4 @@
 
 ---
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)

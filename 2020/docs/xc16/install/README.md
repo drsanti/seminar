@@ -1,6 +1,6 @@
 # Install XC16 Compiler
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)
 
 1. Go to `https://www.microchip.com/mplab/compilers`, move down to the bottom of the page, and click the `Compiler Downloads` tab.
 
@@ -56,4 +56,4 @@
 
 ---
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)

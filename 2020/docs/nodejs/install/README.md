@@ -1,6 +1,6 @@
 # Install Node.js
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)
 
 1. Go to the download page `https://nodejs.org/en/download/`, and click the `64-bit` of `Windows Installer (.msi)`.
 
@@ -54,4 +54,4 @@
 
 ---
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)

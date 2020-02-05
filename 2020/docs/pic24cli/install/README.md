@@ -1,6 +1,6 @@
 # Install ecc-pic24-cli
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)
 
 > If the XC16 Compiler is not installed, please install it first. Check [here](../../xc16/install) for the installation steps.
 
@@ -32,4 +32,4 @@ ecc-pic24-cli -version
 
 ---
 
-[Back to the main page](https://github.com/drsanti/shared/README.md)
+[Back to the main page](https://github.com/drsanti/shared)
