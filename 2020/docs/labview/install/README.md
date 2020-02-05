@@ -1,7 +1,7 @@
 
 # NI Registration
 
-> If you already have a `NI Account` go to the `Login` section below.
+> If you already have the `NI Account` go to the `Login` section below.
 
 1. Go to `https://www.ni.com/`.
 
