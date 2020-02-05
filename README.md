@@ -1,6 +1,6 @@
 # Software Installation (Step-by-step)
 
-Click the links below.
+Click a link below to check the step-by-step installation.
 
 - [Visual Studio Code](2020/docs/vscode)
 - [XC16 Compiler](2020/docs/xc16)
@@ -13,5 +13,7 @@ Click the links below.
 ---
 
 # Download Software Tools
+
+Click a link below to download a software.
 
 - [ecc-pic24-cli](https://github.com/drsanti/shared/blob/master/2020/tools/ecc-pic24-cli/ecc-pic24-cli.exe)

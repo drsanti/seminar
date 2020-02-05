@@ -1,5 +1,7 @@
 # Install VSCode
 
+[Back to the main page](https://github.com/drsanti/shared)
+
 1. Go to `https://code.visualstudio.com/download` and click the `64-bit` of `System Installer`.
 
 ![](images/01_download.png)
@@ -42,3 +44,5 @@
 ![](images/10_finish.png)
 
 ---
+
+[Back to the main page](https://github.com/drsanti/shared)

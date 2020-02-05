@@ -1,6 +1,8 @@
 
 # NI Registration
 
+[Back to the main page](https://github.com/drsanti/shared)
+
 > If you already have the `NI Account` go to the `Login` section below.
 
 1. Go to `https://www.ni.com/`.
@@ -166,3 +168,5 @@
 ![myaccountbutton](images/install/19-reboot.png)
 
 ---
+
+[Back to the main page](https://github.com/drsanti/shared)
