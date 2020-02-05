@@ -2,13 +2,13 @@
 
 Click a link below to check the step-by-step installation.
 
-- [Visual Studio Code](2020/docs/vscode)
-- [XC16 Compiler](2020/docs/xc16)
-- [ecc-pic24-cli](2020/docs/pic24cli)
-- [Node.js](2020/docs/nodejs)
-- [Python 3.8x](2020/docs/python)
-- [LabVIEW 2019](2020/docs/labview)
-- [Google Chrome](2020/docs/chrome)
+- [Visual Studio Code](2020/docs/vscode/install/README.md)
+- [XC16 Compiler](2020/docs/xc16/install/README.md)
+- [ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
+- [Node.js](2020/docs/nodejs/install/README.md)
+- [Python 3.8x](2020/docs/python/install/README.md)
+- [LabVIEW 2019](2020/docs/labview/install/README.md)
+- [Google Chrome](2020/docs/chrome/install/README.md)
 
 ---
 
