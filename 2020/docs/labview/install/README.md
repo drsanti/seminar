@@ -1,7 +1,7 @@
 
 # NI Registration
 
-[Back to the main page](https://github.com/drsanti/shared)
+[Back to the main page](https://github.com/drsanti/shared/README.md)
 
 > If you already have the `NI Account` go to the `Login` section below.
 
@@ -169,4 +169,4 @@
 
 ---
 
-[Back to the main page](https://github.com/drsanti/shared)
+[Back to the main page](https://github.com/drsanti/shared/README.md)
