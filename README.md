@@ -46,6 +46,6 @@
 
 :five: :link:[LabVIEW 2019](2020/docs/labview/install/README.md)
 
-:information_source: Other software tools and documents will be provided in class.
+:information_source: <html><span style="color:#07abf7;">Other software tools and documents will be provided in class.</span><html>
 
 ---
