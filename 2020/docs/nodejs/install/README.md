@@ -4,9 +4,9 @@
 
 1. Download Node.js installer, [`node-v12.15.0-x64.msi`](https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi), by clicking [here](https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi).
 
->The `node-v12.15.0-x64.msi` is recommended for the workshops.
+>:information_source: The `node-v12.15.0-x64.msi` is recommended for the workshops.
 
->If aother version of the Node.js was installed, please **uninstall** it first.
+>:warning: If aother version of the Node.js was installed, please **uninstall** it first.
 
 2. Right-click on the installer `node-v12.15.0-x64.msi`, and choose the `install`.
 
@@ -52,7 +52,7 @@
 
 ![](images/12_check.png)
 
->The version of the `node` and the `npm` should be `v12.15.0` and `6.13.4` for the workshops.
+>:information_source: The version of the `node` and the `npm` should be `v12.15.0` and `6.13.4` for the workshops.
 
 ---
 
