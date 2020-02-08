@@ -10,7 +10,7 @@
 
 :star:
 
-**Used for 15 February, 2020**
+**Used for 15 February 2020**
 [**Internet-of-Things Workshop**](https://www.eventpop.me/e/8082)
 
 > Click the links below to see the step-by-step installation instructions.
@@ -31,7 +31,7 @@
 
 :star:
 
-**Used for 16 February, 2020**
+**Used for 16 February 2020**
 [**Industrial Automation Workshop**](https://www.eventpop.me/e/8222)
 
 > Click the links below to see the step-by-step installation instructions.
