@@ -1,10 +1,5 @@
-# Free Seminars and Workshops
 
-Click [here](https://github.com/drsanti/shared/tree/master/2020/seminars/README.md) for more details.
-
----
-
-# Software Installation (Step-by-step)
+# Software Installation for Workshops (Step-by-step)
 
 Click a link below to check the step-by-step installation.
 
