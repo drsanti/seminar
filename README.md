@@ -2,9 +2,9 @@
 # Software Installation for Workshops
 
 
->:iphone: If you are using mobilephone, , click on the `View all of README.md` below to see all details.
+>:iphone: If you are using mobilephone, click on the **`View all of README.md`** below to see all details.
 
-> :warning: All workshops require Windows 8 or Windows 10.
+> :warning: All workshops require **Windows 8** or **Windows 10**.
 
 ---
 
