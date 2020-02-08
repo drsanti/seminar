@@ -42,9 +42,3 @@
 :five: :link:[LabVIEW 2019](2020/docs/labview/install/README.md)
 
 ---
-
-# Download Software Tools
-
-Click a link below to download a software.
-
-- [ecc-pic24-cli](https://github.com/drsanti/shared/blob/master/2020/tools/ecc-pic24-cli/ecc-pic24-cli.exe)
