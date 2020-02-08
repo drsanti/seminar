@@ -6,6 +6,8 @@
 
 >The `node-v12.14.1-x64` is recommended for the workshops.
 
+>If aother version of the Node.js was installed, please **uninstall** it first.
+
 2. Right-click on the installer `node-v12.14.1-x64.msi`, and choose the `install`.
 
 ![](images/02_install.png)
