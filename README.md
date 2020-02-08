@@ -2,7 +2,7 @@
 # Software Installation for Workshops
 
 
->:iphone: If you are using mobilephone, , click on the `View all of README.md` to see all details.
+>:iphone: If you are using mobilephone, , click on the `View all of README.md` below to see all details.
 
 ---
 
