@@ -2,12 +2,13 @@
 # Software Installation for Workshops
 
 
->:information_source: Click on the `README.md` to see full content.
+>:iphone: If you are using mobilephone, , click on the `View all of README.md` to see all details.
 
+---
 
-### Required Softeare for Internet-of-Things
-
-**:point_right:15 February, 2020**
+:star:
+**15 February, 2020**
+**Internet-of-Things**
 
 > Click the links below to see the step-by-step installation instructions.
 
@@ -22,10 +23,9 @@
 :five: :link:[Google Chrome](2020/docs/chrome/install/README.md)
 
 ---
-
-### Required Softeare for Industrial Automation
-
-**:point_right:16 February, 2020**
+:star:
+**16 February, 2020**
+**Industrial Automation**
 
 > Click the links below to see the step-by-step installation instructions.
 
