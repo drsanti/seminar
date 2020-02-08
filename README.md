@@ -15,11 +15,11 @@
 
 > Click the links below to see the step-by-step installation instructions.
 
-:one: :link:[Visual Studio Code](2020/docs/vscode/install/README.md)
+:one: :link:[XC16 C Compiler](2020/docs/xc16/install/README.md)
 
-:two: :link:[XC16 C Compiler](2020/docs/xc16/install/README.md)
+:two: :link:[ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
 
-:three: :link:[ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
+:three: :link:[Visual Studio Code](2020/docs/vscode/install/README.md)
 
 :four: :link:[Node.js](2020/docs/nodejs/install/README.md)
 
@@ -36,11 +36,11 @@
 
 > Click the links below to see the step-by-step installation instructions.
 
-:one: :link:[Visual Studio Code](2020/docs/vscode/install/README.md)
+:one: :link:[XC16 C Compiler](2020/docs/xc16/install/README.md)
 
-:two: :link:[XC16 C Compiler](2020/docs/xc16/install/README.md)
+:two: :link:[ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
 
-:three: :link:[ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
+:three: :link:[Visual Studio Code](2020/docs/vscode/install/README.md)
 
 :four: :link:[Python 3.8x](2020/docs/python/install/README.md)
 
