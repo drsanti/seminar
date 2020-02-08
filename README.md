@@ -1,15 +1,35 @@
 
-# Software Installation for Workshops (Step-by-step)
+# Software Installation for Workshops
 
-Click a link below to check the step-by-step installation.
 
-- [Visual Studio Code](2020/docs/vscode/install/README.md)
-- [XC16 Compiler](2020/docs/xc16/install/README.md)
-- [ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
-- [Node.js](2020/docs/nodejs/install/README.md)
-- [Python 3.8x](2020/docs/python/install/README.md)
-- [LabVIEW 2019](2020/docs/labview/install/README.md)
-- [Google Chrome](2020/docs/chrome/install/README.md)
+>:information_source: Click on the `README.md` to see full content.
+
+
+### Required Softeare for Internet-of-Things
+
+**:point_right:15 February, 2020**
+
+> Click the links below to see the step-by-step installation instructions.
+
+:one: :link:[Visual Studio Code](2020/docs/vscode/install/README.md)
+:two: :link:[XC16 C Compiler](2020/docs/xc16/install/README.md)
+:three: :link:[ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
+:four: :link:[Node.js](2020/docs/nodejs/install/README.md)
+:five: :link:[Google Chrome](2020/docs/chrome/install/README.md)
+
+---
+
+### Required Softeare for Industrial Automation
+
+**:point_right:16 February, 2020**
+
+> Click the links below to see the step-by-step installation instructions.
+
+:one: :link:[Visual Studio Code](2020/docs/vscode/install/README.md)
+:two: :link:[XC16 C Compiler](2020/docs/xc16/install/README.md)
+:three: :link:[ecc-pic24-cli](2020/docs/pic24cli/install/README.md)
+:four: :link:[Python 3.8x](2020/docs/python/install/README.md)
+:five: :link:[LabVIEW 2019](2020/docs/labview/install/README.md)
 
 ---
 
