@@ -11,7 +11,7 @@
 :star:
 
 **Used for 15 February, 2020**
-**Internet-of-Things Workshop**
+[**Internet-of-Things Workshop**](evenpop.me/e/8022)
 
 > Click the links below to see the step-by-step installation instructions.
 
@@ -25,11 +25,14 @@
 
 :five: :link:[Google Chrome](2020/docs/chrome/install/README.md)
 
+:information_source: Other software tools and documents will be provided in class.
+
 ---
+
 :star:
 
 **Used for 16 February, 2020**
-**Industrial Automation Workshop**
+[**Industrial Automation Workshop**](evenpop.me/e/8222)
 
 > Click the links below to see the step-by-step installation instructions.
 
@@ -42,5 +45,7 @@
 :four: :link:[Python 3.8x](2020/docs/python/install/README.md)
 
 :five: :link:[LabVIEW 2019](2020/docs/labview/install/README.md)
+
+:information_source: Other software tools and documents will be provided in class.
 
 ---
