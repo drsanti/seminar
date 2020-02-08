@@ -2,7 +2,7 @@
 # Software Installation for Workshops
 
 
->:iphone: If you are using mobilephone, click [**here**](https://github.com/drsanti/shared/blob/master/README.md) all details.
+>:iphone: If you are using mobile phone, click [**here**](https://github.com/drsanti/shared/blob/master/README.md) all details.
 
 > :warning: All workshops require **Windows 8** or **Windows 10**.
 
