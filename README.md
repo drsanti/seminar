@@ -9,6 +9,7 @@
 ---
 
 :star:
+
 **Used for 15 February, 2020**
 **Internet-of-Things Workshop**
 
@@ -26,6 +27,7 @@
 
 ---
 :star:
+
 **Used for 16 February, 2020**
 **Industrial Automation Workshop**
 
