@@ -2,7 +2,7 @@
 
 [Back to the main page](https://github.com/drsanti/shared)
 
-1. Download Node.js installer, `node-v12.14.1-x64.msi`, by clicking [here](https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi).
+1. Download Node.js installer, [`node-v12.14.1-x64.msi`](https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi), by clicking [here](https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi).
 
 >The `node-v12.14.1-x64` is recommended for the workshops.
 
@@ -50,7 +50,7 @@
 
 ![](images/12_check.png)
 
-> The version numbers can be different.
+>The version of the `node` and the `npm` shown in the picture above (`v12.14.1` and `6.13.4`) are recommended for the workshops.
 
 ---
 
