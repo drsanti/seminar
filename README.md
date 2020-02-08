@@ -4,11 +4,13 @@
 
 >:iphone: If you are using mobilephone, , click on the `View all of README.md` below to see all details.
 
+> :warning: All workshops require Windows 8 or Windows 10.
+
 ---
 
 :star:
-**15 February, 2020**
-**Internet-of-Things**
+**Used for 15 February, 2020**
+**Internet-of-Things Workshop**
 
 > Click the links below to see the step-by-step installation instructions.
 
@@ -24,8 +26,8 @@
 
 ---
 :star:
-**16 February, 2020**
-**Industrial Automation**
+**Used for 16 February, 2020**
+**Industrial Automation Workshop**
 
 > Click the links below to see the step-by-step installation instructions.
 
