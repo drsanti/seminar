@@ -2,9 +2,9 @@
 
 [Back to the main page](https://github.com/drsanti/shared)
 
-1. Go to the download page `https://nodejs.org/en/download/`, and click the `64-bit` of `Windows Installer (.msi)`.
+1. Download Node.js installer, `node-v12.14.1-x64.msi`, by clicking [here](https://nodejs.org/dist/v12.15.0/node-v12.15.0-x64.msi).
 
-![](images/01_download.png)
+>The `node-v12.14.1-x64` is recommended for the workshops.
 
 2. Right-click on the installer `node-v12.14.1-x64.msi`, and choose the `install`.
 
